@@ -74,4 +74,7 @@ The system will now: <br>
 - Evaluate each robot move <br>
 - Provide LLM-generated piece suggestions <br> <br>
 
-Remove or place pieces according to your gaze feedback <br>
+Remove or place pieces according to your gaze feedback <br><br>
+
+
+_Note: This project was developed in collaboration with Susanna and Anna_
