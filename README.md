@@ -1,6 +1,10 @@
 # Set Up and Running the Tangram Gaze‑LLM System
 These steps explain how to install dependencies, configure Webots, start the gaze tracking + LLM servers and launch the robot simulation.
 
+## ▶️ Demo
+[Tiago & Human with a Tangram Puzzle!](https://youtu.be/5BYhj5Q36do)
+<br> <br>
+
 ## 🤖 Create and Activate Virtual Environment
 _.\.venv\Scripts\activate_ <br>
 Activates the project's Python virtual environment so all dependencies install locally instead of globally.
