@@ -82,3 +82,4 @@ Remove or place pieces according to your gaze feedback <br><br>
 
 ## 👥 Collaboration Note
 _Note: This project was developed in collaboration with Susanna and Anna_
+
