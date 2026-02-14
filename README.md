@@ -1,4 +1,4 @@
-# 🤖 Demo and SetUp 
+## 🤖 Demo and SetUp 
 These steps explain how to install dependencies, configure Webots, start the gaze tracking + LLM servers and launch the robot simulation.
 
 ## ▶️ Demo
